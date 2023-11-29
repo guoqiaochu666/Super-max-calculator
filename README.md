@@ -19,6 +19,7 @@ Je m'efforcerai d'améliorer continuellement ce logiciel.
 À suivre...
 
 个人博客观看更佳。
+
 [1.0版本发布](https://www.cnblogs.com/BadBadBad/p/Super-max-calculator.html)
 
 有想法或有建议的可以在我的博客留言或私信我。
