@@ -17,3 +17,14 @@ Dans ce projet, j'ai implémenté des algorithmes de calcul de haute précision 
 Je continuerai à ajouter de nouvelles fonctionnalités à ce projet, en implémentant des algorithmes avancés tels que le calcul de logarithme, le sinus, le cosinus, etc.
 Je m'efforcerai d'améliorer continuellement ce logiciel.
 À suivre...
+
+个人博客观看更佳。
+[1.0版本发布](https://www.cnblogs.com/BadBadBad/p/Super-max-calculator.html)
+
+有想法或有建议的可以在我的博客留言或私信我。
+
+我会将您的鼎鼎大名放在下面和我的博客上
+
+## 特别鸣谢
+
+空荡荡的……
